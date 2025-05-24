@@ -1,7 +1,27 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# File tạm của R/RStudio
+*.Rproj
+*.Rproj.user/
+*.Rhistory
+*.RData
+*.Ruserdata
+
+# File tạm thời và quá lớn
 *.sav
 *.docx
 *.pdf
+
+# File tạm của Office và hệ thống
+~$*
+.DS_Store
+Thumbs.db
+
+# Xuất bản Quarto
+*.html
+*.docx
+*.pdf
+
+# Bỏ toàn bộ file trong thư mục source/
+source/*
+
+# NHƯNG vẫn giữ lại file lang_pro_.bib
+!source/lang_pro_.bib
