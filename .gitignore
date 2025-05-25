@@ -26,3 +26,4 @@ source/*
 
 # NHƯNG vẫn giữ lại file lang_pro_.bib
 !source/lang_pro_.bib
+.Rproj.user
