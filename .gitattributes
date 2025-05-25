@@ -1,0 +1,22 @@
+# Tự động xử lý newline giữa Windows/Mac/Linux
+* text=auto
+
+# Cố định newline = LF cho file mã nguồn (bash, R, Quarto, Python)
+*.sh     text eol=lf
+*.R      text eol=lf
+*.qmd    text eol=lf
+*.md     text eol=lf
+*.py     text eol=lf
+
+# Giữ CRLF cho file batch (Windows)
+*.bat    text eol=crlf
+
+# Đánh dấu file nhị phân để Git không xử lý newline
+*.png    binary
+*.jpg    binary
+*.pdf    binary
+*.docx   binary
+*.xlsx   binary
+
+# Giữ nguyên lock file
+*.lock   text eol=lf
