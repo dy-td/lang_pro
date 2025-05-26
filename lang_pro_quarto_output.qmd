@@ -1,6 +1,6 @@
 ---
-title: "Luận văn Thạc sỹ"
-author: "Bs Loan "
+title: "Doctor Thesis"
+author: "YHCT team"
 format:
     docx:
       toc: false
@@ -144,9 +144,36 @@ TP Hồ Chí Minh: `r formatted_datetime`
 ĐẶT VẤN ĐỀ
 :::
 
-Hiện nay
+Bệnh Alzheimer là dạng sa sút trí tuệ thường gặp nhất, chiếm khoảng 60–70% tổng số ca sa sút trí tuệ trên toàn thế giới. Đây là một rối loạn thần kinh tiến triển, ảnh hưởng đến trí nhớ, suy luận, định hướng, khả năng ngôn ngữ và các chức năng nhận thức khác, đồng thời gây rối loạn hành vi và cảm xúc. Theo Tổ chức Y tế Thế giới (WHO), năm 2023 có khoảng 55 triệu người đang sống chung với bệnh sa sút trí tuệ, và dự báo con số này sẽ tăng lên 139 triệu vào năm 2050 do xu hướng già hóa dân số nhanh chóng ở nhiều quốc gia, đặc biệt là các nước có thu nhập trung bình như Việt Nam [@who2023dementia].
 
-**Mục tiêu:**
+Tại Việt Nam, tỷ lệ người cao tuổi tăng nhanh kéo theo sự gia tăng đáng kể số ca sa sút trí tuệ, trong đó bệnh Alzheimer chiếm tỷ lệ lớn. Theo các khảo sát gần đây, tỷ lệ sa sút trí tuệ ở người ≥65 tuổi dao động từ 4–8%, với xu hướng ngày càng trẻ hóa và phức tạp hóa triệu chứng. Người bệnh Alzheimer không chỉ đối mặt với suy giảm chức năng nhận thức mà còn phải chịu đựng các rối loạn cảm xúc như lo âu, trầm cảm, và đặc biệt là căng thẳng tâm lý kéo dài – một yếu tố có thể làm trầm trọng thêm tiến triển bệnh và giảm chất lượng sống [@liu2017stress; @yu2018positive].
+
+Căng thẳng (stress) ở người bệnh Alzheimer là một vấn đề nghiêm trọng nhưng thường bị bỏ sót trong quá trình chăm sóc. Các nghiên cứu cho thấy căng thẳng mãn tính có thể thúc đẩy sự thoái hóa tế bào thần kinh, tăng tốc độ suy giảm trí nhớ và gia tăng hành vi gây rối. Nguồn gốc căng thẳng có thể đến từ sự mất độc lập, rối loạn giao tiếp, cảm giác cô lập xã hội và sự thay đổi về nhân cách [@gaugler2011psychological]. Vì vậy, giảm căng thẳng là một trong những chiến lược then chốt giúp người bệnh duy trì chất lượng sống và khả năng thích nghi với bệnh lý.
+
+Trong bối cảnh đó, Ngôn ngữ trị liệu nổi lên như một chuyên ngành quan trọng hỗ trợ người bệnh Alzheimer cải thiện khả năng giao tiếp, duy trì kết nối xã hội và nâng cao sự tự chủ. Các kỹ thuật trị liệu ngôn ngữ không chỉ cải thiện chức năng diễn đạt mà còn giúp người bệnh cảm thấy được lắng nghe, thấu hiểu và giảm bớt cảm giác bị cô lập – một nguồn gây căng thẳng phổ biến [@bayles2000communication; @taler2018language].
+
+Song song, Xoa bóp bấm huyệt – một phương pháp điều trị cổ truyền của Đông y – đã được chứng minh có hiệu quả trong việc thư giãn hệ thần kinh, giảm hormone căng thẳng như cortisol, cải thiện tuần hoàn não và giấc ngủ. Một số nghiên cứu tại châu Á cho thấy bấm huyệt các vùng như Thái dương, Ấn đường, Hợp cốc, Nội quan, Dũng tuyền giúp người bệnh Alzheimer cảm thấy bình tĩnh hơn, ngủ ngon hơn và giảm mức độ lo âu – stress rõ rệt [@lee2011acupressure; @park2018massage].
+
+Đáng chú ý, việc kết hợp giữa Ngôn ngữ trị liệu và Xoa bóp bấm huyệt trong điều trị căng thẳng ở người bệnh Alzheimer là một hướng tiếp cận mới mang tính liên ngành, tích hợp giữa y học hiện đại và y học cổ truyền. Trong khi các nghiên cứu quốc tế bắt đầu quan tâm đến sự phối hợp này như một liệu pháp toàn diện [@kim2019integrative], thì tại Việt Nam, các nghiên cứu chuyên sâu về hiệu quả can thiệp kết hợp vẫn còn rất hạn chế, đặc biệt ở nhóm bệnh nhân Alzheimer giai đoạn sớm đến trung bình.
+
+Đơn vị Trí nhớ – Sa sút trí tuệ, Bệnh viện 30-4 (TP. Hồ Chí Minh) là đơn vị đầu tiên tại Việt Nam triển khai điều trị chuyên sâu cho người bệnh sa sút trí tuệ. Đây là cơ sở tiên phong áp dụng mô hình chăm sóc toàn diện kết hợp giữa y học hiện đại và y học cổ truyền, bao gồm các liệu pháp như ngôn ngữ trị liệu, xoa bóp bấm huyệt, phục hồi chức năng nhận thức, tư vấn tâm lý và hỗ trợ người chăm sóc. Với đội ngũ chuyên môn liên ngành và hệ thống đánh giá chức năng trí nhớ bài bản, Đơn vị là địa điểm lý tưởng để triển khai nghiên cứu can thiệp tích hợp nhằm cải thiện tình trạng căng thẳng ở người bệnh Alzheimer.
+
+Từ các lý do nêu trên, nghiên cứu này được thực hiện nhằm đánh giá hiệu quả của liệu pháp kết hợp ngôn ngữ trị liệu và xoa bóp bấm huyệt trong việc giảm mức độ căng thẳng ở người bệnh Alzheimer, góp phần cung cấp thêm bằng chứng khoa học cho một hướng điều trị tích hợp, có tính ứng dụng cao trong bối cảnh chăm sóc người già tại Việt Nam.
+
+
+**Mục tiêu nghiên cứu**
+
+Mục tiêu tổng quát:
+Đánh giá hiệu quả của can thiệp kết hợp ngôn ngữ trị liệu và xoa bóp bấm huyệt trong việc làm giảm căng thẳng ở người bệnh Alzheimer tại Bệnh viện 30-4.
+
+Mục tiêu cụ thể:
+
+Đo lường mức độ căng thẳng của người bệnh Alzheimer trước và sau can thiệp kết hợp.
+
+So sánh hiệu quả can thiệp giữa nhóm được điều trị kết hợp và nhóm chứng (can thiệp đơn lẻ hoặc chăm sóc thông thường).
+
+Mô tả sự thay đổi một số chỉ số liên quan đến hành vi, giấc ngủ và khả năng giao tiếp sau can thiệp.
+
 
 1. Khảo 
 2. Phân tích
