@@ -1,8 +1,13 @@
+sửa file thuyduong pc
 # Dùng vim soạn thảo văn bản
 - :q! để thoát
 - :w lưu (write)
 - : về readmod
 # 🧠 lang_pro – Dự án Ngôn ngữ Trị liệu
+=======
+#Cập nhật readme 30/05/ 18:12
+
+# 🧠 CHEAT SHEET – THỰC HÀNH GIT LOCAL TRONG 
 
 Dự án `lang_pro` là một hệ thống hỗ trợ nghiên cứu và phát triển các phương pháp trị liệu ngôn ngữ dành cho người mắc rối loạn nhận thức, đặc biệt trong bối cảnh lâm sàng tại Việt Nam. Đây là một phần trong luận án tiến sĩ của nhóm tác giả từ Bệnh viện 30/4 và các cộng sự.
 
